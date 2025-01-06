@@ -87,7 +87,7 @@ Version 8: 8
 					<string>Apple Root CA</string>
 				</array>
 				<key>input_path</key>
-				<string>%pathname%/VMware Horizon Client.pkg</string>
+				<string>%pathname%/Omnissa Horizon Client.pkg</string>
 			</dict>
 			<key>Processor</key>
 			<string>CodeSignatureVerifier</string>
